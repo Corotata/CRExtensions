@@ -1,0 +1,16 @@
+# 公有仓库
+source 'https://github.com/CocoaPods/Specs.git'
+## 私有仓库
+source 'https://github.com/Corotata/CoroPods.git'
+
+use_frameworks!
+
+target 'CRExtensions_Example' do
+  pod 'CRExtensions', :path => '../'
+
+  target 'CRExtensions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

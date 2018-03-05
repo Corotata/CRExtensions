@@ -1,0 +1,16 @@
+PODS:
+  - CRExtensions (0.1.0)
+
+DEPENDENCIES:
+  - CRExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  CRExtensions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CRExtensions: dc9c271e44571fe8919b5997dacc750574af48c7
+
+PODFILE CHECKSUM: a79d0617bba46ef6c3a617960909092973cdea5b
+
+COCOAPODS: 1.4.0

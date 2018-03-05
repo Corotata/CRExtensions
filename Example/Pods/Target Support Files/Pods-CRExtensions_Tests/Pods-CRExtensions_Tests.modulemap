@@ -1,0 +1,6 @@
+framework module Pods_CRExtensions_Tests {
+  umbrella header "Pods-CRExtensions_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

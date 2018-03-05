@@ -1,0 +1,22 @@
+{
+  "name": "CRExtensions",
+  "version": "0.1.0",
+  "summary": "CRExtensions.",
+  "description": "A short description of CRExtensions.\nTODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Corotata/CRExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Corotata": "corotata@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Corotata/CRExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CRExtensions/Classes/**/*"
+}
