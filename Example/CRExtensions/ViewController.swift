@@ -15,10 +15,14 @@ class ViewController: UIViewController {
     @IBOutlet weak var imageView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-//        self.view.backgroundColor = UIColor(hex: 0x35ddf3, alpha: 1.0)
-        let color =   UIColor(hex: 0x35ddf3, alpha: 1.0)
-       
-        imageView.image = color.transforToImage()
+        let color = UIColor()
+        let KEY: String = "中国".coro.URLEscaped
+        print(KEY)
+        
+        imageView.image = color.coro.image()
+        
+        print(UIDevice.current.coro.deviceInfoDescription)
+//        color.
         // Do any additional setup after loading the view, typically from a nib.
     }
 

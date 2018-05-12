@@ -29,10 +29,10 @@
 
 /* Begin PBXFileReference section */
 		06A175045908F9182F268E72 /* Pods-CRExtensions_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CRExtensions_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CRExtensions_Tests/Pods-CRExtensions_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		077DD44F7BB5488634CD591F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		077DD44F7BB5488634CD591F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		1BFE46EA66F2287C081CBDF1 /* Pods-CRExtensions_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CRExtensions_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CRExtensions_Example/Pods-CRExtensions_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		52860264F06338099E49E4CE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		5872C5563D4C17935EB0D7F4 /* CRExtensions.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CRExtensions.podspec; path = ../CRExtensions.podspec; sourceTree = "<group>"; };
+		52860264F06338099E49E4CE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		5872C5563D4C17935EB0D7F4 /* CRExtensions.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CRExtensions.podspec; path = ../CRExtensions.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* CRExtensions_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CRExtensions_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
